@@ -1,5 +1,7 @@
 # resolution
 
+![](resolution.png)
+
 Requirements
 
 > python 3
