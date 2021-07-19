@@ -9,4 +9,4 @@ for i in range(0, width):
         pixels[i, j] = (random.randint(0, 255), random.randint(
             0, 255), random.randint(0, 255))
 im.show()
-im.save("resolution.png")
+im.save("resolution.tiff")

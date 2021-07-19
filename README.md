@@ -1,6 +1,6 @@
 # resolution
 
-![](resolution.png)
+![](resolution.tiff)
 
 Requirements
 
