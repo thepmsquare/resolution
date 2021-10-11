@@ -14,7 +14,7 @@ def create_image(width=default_width, height=default_height):
             pixels[i, j] = (random.randint(0, 255), random.randint(
                 0, 255), random.randint(0, 255))
     im.show()
-    im.save("resolution.tiff")
+    im.save("resolution.png")
     print("Image created.")
 
 
@@ -27,4 +27,3 @@ if __name__ == "__main__":
         print(
             f"Incorrect input, generating image with default values. Width = {default_width}, Height = {default_height}.")
         create_image()
-    pass
